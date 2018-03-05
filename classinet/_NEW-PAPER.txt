@@ -1,0 +1,61 @@
+
+##### NEW expanded sentences for paper
+
+NOTE: all of these can be replicated by running the files as they are - they haven't been changed
+since...
+
+
+1. Local path expansion - for paper we use 
+Danushka's version (expand-short-path.py) - thresh=0.9, f=0.15		(new-test-local-path.txt)
+all - 76.99
+pos - 77.66
+neg - 76.31
+
+
+2. All neighbour expansion (expand-neighb-all2.py) - f=0.15		(new-test-all-neighb.txt)
+all - 77.37
+pos - 77.66
+neg - 77.08
+
+
+3. Mutual neighbour expansion (expand-neighb-mutual2.py) - f=0.3		(new-test-mutual-neighb.txt)
+all - 77.32
+pos - 77.88
+neg - 76.75
+
+
+
+
+
+######
+
+ORIGINAL PAPER results:
+
+1. Local path (one hop, threshold=0.95) with f=0.15
+all - 76.97
+pos - 76.30
+neg - 77.64
+
+	Danushka's local path (with shortest paths) with f=0.15 - THIS WAS USED IN PAPER (test-expand-short-path1.txt)
+	all - 76.97
+	pos - 77.51
+	neg - 76.43
+
+2. All neighbours (just direct) - with f=0.15
+all - 77.36
+pos - 77.51
+neg - 77.20
+
+3. Mutual neighbours (+predicted) - with f=0.3 - two hops with just instance feats (I think)
+all - 77.13
+pos - 77.51
+neg - 76.76
+
+
+More...
+
+Mutual neighbours (two hops with just instance feats) - with f=0.1
+all - 76.53
+positive - 76.30
+negative - 76.76
+

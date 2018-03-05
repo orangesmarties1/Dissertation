@@ -1,0 +1,11 @@
++1 on:1 its:1 own:1 cinematic:1 terms:1 it:1 successfully:1 showcases:1 the:1 passions:1 of:1 both:1 the:1 director:1 and:1 novelist:1 byatt:1
+writer:0.45 played:0.3 dialogue:0.3 done:0.3 subject:0.3 story:0.3 richard:0.3 script:0.95 cinema:0.3 acting:0.3 writing:0.3 cinematography:0.3 written:0.3 animation:0.3 actors:0.3 films:0.3 role:0.3 john:0.3 direction:0.95 elements:0.3 got:0.45 hand:0.45 novel:0.45 excellent:0.3 genre:0.3 editing:0.3 thriller:0.3 directed:0.6 short:0.3 episode:0.3 work:0.6 experience:0.3 directors:0.6 storyline:0.3 documentary:0.6
+
++1 what:1 jackson:1 has:1 accomplished:1 here:1 is:1 amazing:1 on:1 a:1 technical:1 level:1
+beautiful:0.95 perfect:0.3 fantastic:0.95 good:0.3 score:0.3 brilliant:0.3 michael:0.45 editing:0.3 direction:0.3 great:0.95 soundtrack:0.3 cinematography:0.95 acting:0.3 wonderful:0.95 music:0.3 excellent:0.95 strong:0.3 fine:0.3 thats:0.45
+
++1 this:1 is:1 art:1 paying:1 homage:1 to:1 art:1
+cinema:0.95 modern:0.3 period:0.6 experience:0.3 style:0.95 acting:0.3 reality:0.3 cinematography:0.95 theme:0.3 score:0.3 music:0.3 films:0.3 events:0.3 direction:0.3 elements:0.3 soundtrack:0.3 particular:0.3 genre:0.3 world:0.3 editing:0.3 animation:0.95 sound:0.3 theater:0.3 british:0.3 drama:0.3 stories:0.3 documentary:0.3 history:0.95
+
+-1 about:1 as:1 satisfying:1 and:1 predictable:1 as:1 the:1 fare:1 at:1 your:1 local:1 drive:1 through:1
+shot:0.6 house:0.3 turned:0.3 scene:0.3 terrible:0.3 enjoyable:0.3 home:0.6 ridiculous:0.3 annoying:0.3 okay:0.3 funny:0.95 filmed:0.3 police:0.6 takes:0.3 script:0.3 interesting:0.3 least:0.45 killed:0.3 tries:0.3 camera:0.3 take:0.3 goes:0.3 horrible:0.3 storyline:0.45 gets:0.3 friend:0.3 poor:0.3 town:0.6 head:0.3 murder:0.3 run:0.6 living:0.3 becomes:0.3 killer:0.3 weak:0.6 hilarious:0.3 back:0.3 overall:0.3 running:0.3 slow:0.3 lives:0.3 awful:0.3 group:0.3 ending:0.45 friends:0.3 dull:0.95 eyes:0.45 begins:0.95 scary:0.3 sit:0.45 boring:0.95 starts:0.3 life:0.3 moment:0.3 bad:0.3 stupid:0.95 silly:0.3 shots:0.3 car:0.3 entertaining:0.95 country:0.3 typical:0.45 husband:0.3 usual:0.45

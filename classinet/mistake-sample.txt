@@ -1,0 +1,11 @@
++1 a:1 very:1 funny:1 movie:1
+overall:0.3 scary:0.95 okay:0.6 brilliant:0.3 interesting:0.3 horrible:0.3 weak:0.3 silly:0.3 boring:0.3 enjoyable:0.3 jokes:0.3 bad:0.3 stupid:0.95 predictable:0.95 hilarious:0.6 awful:0.3 ok:0.3 entertaining:0.95 comedy:0.3 dull:0.3 cool:0.3
+
++1 much:1 of:1 the:1 way:1 though:1 this:1 is:1 a:1 refreshingly:1 novel:1 ride:1
+major:0.3 dont:0.3 played:0.3 viewer:0.3 ending:0.3 leads:0.3 really:0.45 cant:0.3 done:0.3 looks:0.95 believable:0.3 couldnt:0.3 throughout:0.3 message:0.3 seemed:0.3 looked:0.3 story:0.95 filmed:0.3 script:0.3 wont:0.3 review:0.3 less:0.3 seems:0.3 except:0.3 comments:0.3 writing:0.3 anything:0.3 written:0.95 book:0.6 version:0.6 films:0.3 stories:0.3 main:0.6 ever:0.3 events:0.95 premise:0.3 supporting:0.3 reality:0.3 far:0.6 overall:0.3 mention:0.3 feels:0.95 cannot:0.3 cinema:0.3 makes:0.3 although:0.6 bit:0.3 thriller:0.3 directed:0.3 actual:0.6 look:0.3 wouldnt:0.6 released:0.3 taken:0.3 obvious:0.3 episodes:0.3 drama:0.3 important:0.3 storyline:0.95 dvd:0.3 release:0.3 opinion:0.3 works:0.3 didnt:0.3 history:0.3
+
+-1 creepy:1 but:1 ultimately:1 unsatisfying:1 thriller:1
+flick:0.6 classic:0.6 modern:0.3 murder:0.3 suspense:0.3 funny:0.3 story:0.3 based:0.3 crime:0.3 hilarious:0.3 films:0.3 hollywood:0.3 comedy:0.95 type:0.3 picture:0.3 elements:0.3 monster:0.3 horror:0.3 sequel:0.3 genre:0.95 mystery:0.6 romantic:0.3 musical:0.3 drama:0.95 greatest:0.3 serious:0.3 entertaining:0.3 original:0.3 typical:0.3
+
+-1 an:1 unimaginative:1 nasty:1 glibly:1 cynical:1 piece:1 of:1 work:1
+art:0.45 cinema:0.6 feel:0.3 lack:0.3 direction:0.3 rest:0.3 course:0.3 theater:0.3 elements:0.3 sense:0.6 kind:0.3 bunch:0.95 story:0.3 group:0.3 score:0.3 script:0.95 lots:0.6 character:0.3 due:0.3 writing:0.3 cinematography:0.95 acting:0.3 animation:0.6 role:0.6 lot:0.3 films:0.3 music:0.3 type:0.3 sort:0.95 directed:0.3 dialogue:0.3 full:0.3 form:0.6 couple:0.3 style:0.3 period:0.45 director:0.6 performance:0.3 plays:0.3 editing:0.3 effort:0.3 sound:0.3 soundtrack:0.3 none:0.3 talent:0.3 roles:0.3 career:0.3 experience:0.3 directors:0.3 storyline:0.3 documentary:0.3 order:0.3 history:0.3
