@@ -1,2 +1,3 @@
 # Dissertation
-Python code creating a network of SVM classifiers to accurately classify short tect movie reviews
+Code creating a network of SVM classifiers to accurately classify short text movie reviews
+Language used: Python
